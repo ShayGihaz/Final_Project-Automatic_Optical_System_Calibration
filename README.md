@@ -8,6 +8,7 @@ This repository contains the code and documentation for automating the calibrati
 - [Project Overview](#project-overview)
 - [System Components](#system-components)
 - [Features](#features)
+- [Results](#results)
 
 
 ## Project Overview
@@ -33,5 +34,13 @@ The automated calibration system was developed to improve the accuracy and effic
 - Real-time image analysis and feedback.
 - Debug mode for tracking image processing steps.
 
+<img src="code.png"><img>
 
+## Results
+- **Manual Calibration Results:**
 
+<img src="res1.heic"><img>
+
+- **Automatic Calibration Results:**
+
+<img src="res.heic"><img>
