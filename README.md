@@ -37,6 +37,12 @@ The automated calibration system was developed to improve the accuracy and effic
 <img src="code.png"><img>
 
 ## Results
+- The automation clibration process significantly reduces the calibration time from minimum a day of manual calibration work to approximately 30 minutes of automatic calibration.
+- The automated system achieved power levels that demonstrated a level of precision typically associated with hardware calibration rather than manual adjustments.
+For comparison purposes, the best power level achieved through manual calibration was approximately -72 [dB]. Our automated system, consistently reached an average power level of -66 [dB], with the peak power reaching an impressive -62 [dB]. These results underscore the effectiveness of the enhanced algorithm in achieving high precision and reliability.
+
+
+
 - **Manual Calibration Results:**
 
 <img src="res1.heic"><img>
